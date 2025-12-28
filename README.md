@@ -67,8 +67,8 @@ The following features work on all maps but I haven't had time to test them full
   - TBA
 
 # Credits
-techboy04gaming - original Gobblegum and Tranzit fast-travel systems which can be found here: https://forum.plutonium.pw/topic/40979/release-zm-gobblegums, https://forum.plutonium.pw/topic/27294/release-zm-tranzit-fast-travel
-dontknowletspl - original AAT system which can be found here: https://forum.plutonium.pw/topic/16795/release-zombies-black-ops-2-alternative-ammo-types
-Viren_7 - original Widow's Wine implementation which can be found here: https://forum.plutonium.pw/topic/32538/release-zm-black-ops-2-custom-perks
+- techboy04gaming | original Gobblegum and Tranzit fast-travel systems which can be found here: https://forum.plutonium.pw/topic/40979/release-zm-gobblegums, https://forum.plutonium.pw/topic/27294/release-zm-tranzit-fast-travel
+- dontknowletspl | original AAT system which can be found here: https://forum.plutonium.pw/topic/16795/release-zombies-black-ops-2-alternative-ammo-types
+- Viren_7 | original Widow's Wine implementation which can be found here: https://forum.plutonium.pw/topic/32538/release-zm-black-ops-2-custom-perks
 
 Thank you so much and happy playing! :)
