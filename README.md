@@ -4,7 +4,7 @@ A collection of personally created and collected mods for BO2 Zombies
 # Installation
 Drag and drop all files into your game directory:
 
-Plutonium/storage/T6/scripts/zm
+%localappdata%/Plutonium/storage/T6/scripts/zm
 
 You can reach this path on Windows by typing in %localappdata% into the Windows search bar
 
