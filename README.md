@@ -13,6 +13,12 @@ This is a collection of personally created and collected mods I've had on BO2 Zo
 while also adding in new features. I will of course credit the original creators of some of these mods further down. If I miss anyone please let me know, and 
 thank you for making such awesome mods!
 
+# UPDATE 9/30/2026:
+Newest version features additional changes, such as a roaming PAP to Tranzit, more fast travel spots, and logic to increase the chances of getting easter egg-related items from the Mystery Box. Additional credit goes to NickB_05 for implementing a shared parts system similar to Mob and Origins, which helps the Victis maps immensely! I've further modified the system to feel closer to the BO3 version. Included also are the BO3 perk, D-Pad, and grenade icons.
+
+I will no longer be in the modding scene but I encourage anyone to further work on my mod if they wish! Please give credit when implementing features from this mod.
+
+
 The following features work on all maps but I haven't had time to test them fully on Origins. All features work in Solo, Custom Games, and Servers:
 
 # Global Features
@@ -70,5 +76,6 @@ The following features work on all maps but I haven't had time to test them full
 - techboy04gaming | original Gobblegum and Tranzit fast-travel systems which can be found here: https://forum.plutonium.pw/topic/40979/release-zm-gobblegums, https://forum.plutonium.pw/topic/27294/release-zm-tranzit-fast-travel
 - dontknowletspl | original AAT system which can be found here: https://forum.plutonium.pw/topic/16795/release-zombies-black-ops-2-alternative-ammo-types
 - Viren_7 | original Widow's Wine implementation which can be found here: https://forum.plutonium.pw/topic/32538/release-zm-black-ops-2-custom-perks
+- NickB_05 | original shared parts system which can be found here: https://forum.plutonium.pw/topic/45871/v1.9-patch-project-scavenger-global-buildable-system-for-victis-maps/20
 
 Thank you so much and happy playing! :)
